@@ -1,7 +1,9 @@
 # Workshops
  Here are provided materials to the workshops related to processing of -omics data in KNIME which we organized in the past.
  
- ### Processing of proteomics data in KNIME (November 2019)
+ Processing of proteomics data in KNIME (November 2019)
+ ----------------------------------------------------------
+ 
  On the 20th of November 2019 we organized the first <b>workshop on processing of proteomics data using the KNIME software </b>.
   
  In the <b>theoretical part</b> the software container was introduced along with the general description of KNIME environment itself
