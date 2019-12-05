@@ -1,6 +1,8 @@
 # Workshops
  Here are provided materials to the workshops related to processing of -omics data in KNIME which we organized in the past.
  
+ <sub><i> Please note, that all files are protected by CC-BY-SA license </i> </sub>
+ 
  Processing of proteomics data in KNIME (November 2019)
  ----------------------------------------------------------
  
@@ -18,8 +20,8 @@
   
 Provided materials:
 * Presentations for the workshop
-    * [Software container running KNIME](files/workshop_2019/presentations/KNIME_workshop_1.pdf)
-    * [Introduction to KNIME](files/workshop_2019/presentations/KNIME_workshop_2.pdf)
-    * [Practical applications, our KNIME metanodes](files/workshop_2019/presentations/KNIME_workshop_3.pdf)
+    * [Software container running KNIME](workshop_2019/KNIME_workshop_1.pdf)
+    * [Introduction to KNIME](workshop_2019/KNIME_workshop_2.pdf)
+    * [Practical applications, our KNIME metanodes](workshop_2019/KNIME_workshop_3.pdf)
 * KNIME manual (describing step-by-step everything which was done in the practical part)
-* Model [workflow](files/workshop_2019/workflow/KNIME_workshop_20191120.knwf) (used in the practical part; in .knwf format)
+* Model [workflow](workshop_2019/KNIME_workshop_20191120.knwf) (used in the practical part; in .knwf format)
