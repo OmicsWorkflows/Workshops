@@ -4,7 +4,7 @@ On the 20th of November 2019 we organized the first <b>workshop on processing of
 
 In the <b>theoretical part</b> the software container was introduced along with the general description of KNIME environment itself and its components and features. We also introduced the pipeline we use for the processing of label-free bottom-up mass spectrometry data and the wide variety of tools we are using in this process (e.g. normalization and imputation techniques, visualizations, etc.) 
 
-In the <b>practical part</b> the participants had hands-on experience with the KNIME environment, they tried to build their own workflow and then to process the model data using "our" workflow.
+In the <b>practical part</b> the participants had hands-on experience with the KNIME environment, they tried to build their own workflow and then to process the model data using workflow for initial processing of label-free quantitative proteomics data.
 
 ## Materials related to the workshop:
 * Presentations for the workshop
