@@ -11,20 +11,24 @@ In the <b>practical part</b> the participants had hands-on experience with the K
     * [Software container running KNIME](files/KNIME_workshop_1.pdf)
     * [Introduction to KNIME](files/KNIME_workshop_2.pdf)
     * [Practical applications, our KNIME metanodes](files/KNIME_workshop_3.pdf)
-* KNIME manual (describing step-by-step everything which was done in the practical part)
+* [KNIME manual](files/KNIME_workshop_manual.pdf) (describing step-by-step everything which was done in the practical part)
 * Model [workflow](files/KNIME_workshop_20191120.knwf) (used in the practical part; in .knwf format)
 
 # Organizers
 
 The workshop was organized by people from several laboratories (in alphabetical order):
-- [Laboratory of cellular communication](http://www.sci.muni.cz/bryjalab/), Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic 
-  - Kristína Gömöryová
-- [Proteomics Research group](https://www.ceitec.eu/proteomics-zbynek-zdrahal/rg49), Central European Institute of Technology, Masaryk University, Brno, Czech Republic
-  - Ranjani Ganji
-  - Pavel Hruška
-  - David Potěšil
-  - Anna Schneiderová
-  - Zbyněk Zdráhal
+- Kristína Gömöryová
+  - [Laboratory of cellular communication](http://www.sci.muni.cz/bryjalab/), Department of Experimental Biology, Faculty of Science, Masaryk University, Brno, Czech Republic 
+- David Potěšil
+  - [Proteomics Research group](https://www.ceitec.eu/proteomics-zbynek-zdrahal/rg49), Central European Institute of Technology, Masaryk University, Brno, Czech Republic
+- Zbyněk Zdráhal
+  - [Proteomics Research group](https://www.ceitec.eu/proteomics-zbynek-zdrahal/rg49), Central European Institute of Technology, Masaryk University, Brno, Czech Republic
+
+# Assistants
+  - [Proteomics Research group](https://www.ceitec.eu/proteomics-zbynek-zdrahal/rg49), Central European Institute of Technology, Masaryk University, Brno, Czech Republic
+    - Ranjani Ganji
+    - Pavel Hruška
+    - Anna Schneiderová
 
 # Acknowledgement
 
