@@ -12,7 +12,7 @@ In the <b>practical part</b> the participants had hands-on experience with the K
     * [Introduction to KNIME](files/KNIME_workshop_2.pdf)
     * [Practical applications, our KNIME metanodes](files/KNIME_workshop_3.pdf)
 * [KNIME manual](files/KNIME_workshop_manual.pdf) (describing step-by-step everything which was done in the practical part)
-* Model [workflow](files/KNIME_workshop_20191120.knwf) (used in the practical part; in .knwf format)
+* Model [workflow](files/KNIME_workshop_workflow_20191120.7z) (used for the practical part, processed; compressed exported workflow; please extract the exported workflow (knwf file) into your KNIME workspace, import it into KNIME and open it)
 
 # Organizers
 
@@ -24,7 +24,7 @@ The workshop was organized by people from several laboratories (in alphabetical 
 - Zbyněk Zdráhal
   - [Proteomics Research group](https://www.ceitec.eu/proteomics-zbynek-zdrahal/rg49), Central European Institute of Technology, Masaryk University, Brno, Czech Republic
 
-# Assistants
+## Assistants
   - [Proteomics Research group](https://www.ceitec.eu/proteomics-zbynek-zdrahal/rg49), Central European Institute of Technology, Masaryk University, Brno, Czech Republic
     - Ranjani Ganji
     - Pavel Hruška
